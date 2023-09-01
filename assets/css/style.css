@@ -50,10 +50,11 @@ nav a:active {
     
 }
 
-h2 {
+#aboutMeTitle {
     font-size: 200%;
     margin-bottom: 2%;
 }
+
 
 section {
     padding-top: 20px;
