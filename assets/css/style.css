@@ -132,11 +132,12 @@ section, article {
 #availablProjects {
     font-size: 200%; 
     margin-right: 5px;
+    padding-bottom: 15px;
 }
 
 
 .large-image {
-    width: 100%;
+    width: 90%;
     border-style: solid;
     border-width: 1px;
     padding: 20px;
